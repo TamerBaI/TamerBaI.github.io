@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>МЕНЮ РАСПИСАНИЯ</title>
+		<link rel="icon" href="иконка сайта/collega.png" type="images/x-icon">
+		<link href="style.css" rel="stylesheet" type="text/css"></link>
+	</head>
+	
+	<body>
+		<a id="a2" href="https://google.com">мир</a><br/>
+		<a href="#" class="human">BABE</a>
+		<strong>dorow</strong><br/>
+		<em>dorow</em>
+		<h1>DOROW</h1>
+		<img src="colleg.jpg" width="500px" height=""/>
+		<div>hello world</div>
+		<table border="5">
+			<tr><td>#1</td><td>hello</td><td>world</td><td>!</td></tr>
+			<tr><td>#2</td><td>hello</td><td>world</td><td>!</td></tr>
+			<tr><td>#3</td><td>hello</td><td>world</td><td>!</td></tr>
+			<tr><td>#4</td><td>hello</td><td>world</td><td>!</td></tr>
+			<tr><td>#5</td><td>hello</td><td>world</td><td>!</td></tr>
+		</table>
+		<input value="Дороу епт"/></br>
+		<textarea></textarea>
+	<body>
+</html>
+
+a{
+	font-size: 100px;
+}
+
+#a2{
+	color: #64EDFF;
+}
+
+.human{
+	color: #D2FF55;
+}
+body{
+	background: url(college.jpg) no-repeat;
+}

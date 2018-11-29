@@ -1,0 +1,769 @@
+#body1{
+	background: url(картинки/cyber1.jpg) no-repeat; /* задний фон */
+	background-size: 100%;
+}
+
+#schedule{
+	color: #0073AC;	/* цвет */
+	font-size: 100px;	/* размер шрифта */
+	margin-left: 400px;	/* отступ от лева */
+}
+
+a{
+	text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}
+
+#groups{
+	margin-top: 100px;
+}
+
+.groups{
+	color: #C82CFF;
+	font-size: 40px;
+	margin-left: 40px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px #A0B7E0;
+}
+
+.one{
+	margin-left: 260px;
+}
+
+.six{
+	margin-left: 170px;
+}
+#second_half{
+	margin-top: 100px;
+}
+
+.BETA{
+	color: red;
+	font-size: 40px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+	
+}
+
+.flexible-image {
+	max-width: 100%;
+}
+
+/* НАЧАЛО ИС */
+
+#body2{
+	background: url(картинки/cyber2.jpg) no-repeat;
+	background-size: 100%;	/* растягивание фоновой картинки */
+}
+
+#group1{
+	margin-top: 300px;
+}
+
+.groupsUC{
+	color: #C82CFF;
+	font-size: 40px;
+	margin-left: 40px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px #A0B7E0;
+}
+
+.ucone{
+	margin-left: 260px;
+}
+
+/* ИС-20 */
+
+#UC-20 {
+	background: url(картинки/группы/ИС/ИС-20.jpg) no-repeat;
+	background-size: 50%;
+}
+
+/* ИС-21 */
+
+#UC-21 {
+	background: url(картинки/группы/ИС/ИС-21.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ИС-30 */
+
+#UC-30 {
+	background: url(картинки/группы/ИС/ИС-30.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ИС-31 */
+
+#UC-31 {
+	background: url(картинки/группы/ИС/ИС-31.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ИС-180 */
+
+#UC-180 {
+	background: url(картинки/группы/ИС/ИС-180.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* НАЧАЛО ИСД */
+
+#body3{
+	background: url(картинки/cyber3.jpg) no-repeat;
+	background-size: 100%;	/* растягивание фоновой картинки */
+}
+
+#group2{
+	margin-top: 300px;
+}
+
+.groupsUCD{
+	color: #C82CFF;
+	font-size: 40px;
+	margin-left: 40px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px #A0B7E0;
+}
+
+.ucdone{
+	margin-left: 440px;
+}
+
+/* ИСД-21 */
+
+#UCD-21 {
+	background: url(картинки/группы/ИСД/ИСД-21.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ИСД-181 */
+
+#UCD-181 {
+	background: url(картинки/группы/ИСД/ИСД-181.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* НАЧАЛО КИПИА */
+
+#body4{
+	background: url(картинки/cyber4.jpg) no-repeat;
+	background-size: 100%;	/* растягивание фоновой картинки */
+}
+
+#group3{
+	margin-top: 300px;
+}
+
+.groupsKIPIA{
+	color: #C82CFF;
+	font-size: 40px;
+	margin-left: 40px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px #A0B7E0;
+}
+
+.kipiaone{
+	margin-left: 240px;
+}
+
+/* КИПИА-30 */
+
+#KIPIA-30 {
+	background: url(картинки/группы/КИПИА/КИПИА-30.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* КИПИА-20 */
+
+#KIPIA-20 {
+	background: url(картинки/группы/КИПИА/КИПИА-20.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* КИПИА-180 */
+
+#KIPIA-180 {
+	background: url(картинки/группы/КИПИА/КИПИА-180.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* НАЧАЛО МЭН */
+
+#body5{
+	background: url(картинки/cyber5.jpg) no-repeat;
+	background-size: 100%;	/* растягивание фоновой картинки */
+}
+
+#group4{
+	margin-top: 300px;
+}
+
+.groupsM3H{
+	color: #C82CFF;
+	font-size: 40px;
+	margin-left: 40px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px #A0B7E0;
+}
+
+.m3hone{
+	margin-left: 440px;
+}
+
+/* МЭН-32 */
+
+#M3H-32 {
+	background: url(картинки/группы/МЭН/МЭН-32.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* МЭН-22 */
+
+#M3H-22 {
+	background: url(картинки/группы/МЭН/МЭН-22.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* НАЧАЛО РР */
+
+#body6{
+	background: url(картинки/cyber6.jpg) no-repeat;
+	background-size: 100%;	/* растягивание фоновой картинки */
+}
+
+#group5{
+	margin-top: 300px;
+}
+
+.groupsPP{
+	color: #C82CFF;
+	font-size: 40px;
+	margin-left: 40px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px #A0B7E0;
+}
+
+.ppone{
+	margin-left: 440px;
+}
+
+/* РР-30 */
+
+#PP-30 {
+	background: url(картинки/группы/РР/РР-30.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* РР-31 */
+
+#PP-31 {
+	background: url(картинки/группы/РР/РР-31.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* РР-33 */
+
+#PP-33 {
+	background: url(картинки/группы/РР/РР-33.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* НАЧАЛО РЭС */
+
+#body7{
+	background: url(картинки/cyber7.jpg) no-repeat;
+	background-size: 100%;	/* растягивание фоновой картинки */
+}
+
+#group6{
+	margin-top: 300px;
+}
+
+.groupsP3C{
+	color: #C82CFF;
+	font-size: 40px;
+	margin-left: 40px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px #A0B7E0;
+}
+
+.p3cone{
+	margin-left: 140px;
+}
+
+/* РЭС-20 */
+
+#P3C-20 {
+	background: url(картинки/группы/РЭС/РЭС-20.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* РЭС-21 */
+
+#P3C-21 {
+	background: url(картинки/группы/РЭС/РЭС-21.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* РЭС-22 */
+
+#P3C-22 {
+	background: url(картинки/группы/РЭС/РЭС-22.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* РЭС-180 */
+
+#P3C-180 {
+	background: url(картинки/группы/РЭС/РЭС-180.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* РЭС-181 */
+
+#P3C-181 {
+	background: url(картинки/группы/РЭС/РЭС-181.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* НАЧАЛО ТЭУ */
+
+#body8{
+	background: url(картинки/cyber8.jpg) no-repeat;
+	background-size: 100%;	/* растягивание фоновой картинки */
+}
+
+#group7{
+	margin-top: 300px;
+}
+
+.groupsT3Y{
+	color: #C82CFF;
+	font-size: 40px;
+	margin-left: 40px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px #A0B7E0;
+}
+
+.t3yone{
+	margin-left: 340px;
+}
+
+/* ТЭУ-22 */
+
+#T3Y-22 {
+	background: url(картинки/группы/ТЭУ/ТЭУ-22.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ТЭУ-32 */
+
+#T3Y-32 {
+	background: url(картинки/группы/ТЭУ/ТЭУ-32.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ТЭУ-180 */
+
+#T3Y-180 {
+	background: url(картинки/группы/ТЭУ/ТЭУ-180.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* НАЧАЛО ЭМЕН */
+
+#body9{
+	background: url(картинки/cyber9.jpg) no-repeat;
+	background-size: 100%;	/* растягивание фоновой картинки */
+}
+
+#group8{
+	margin-top: 300px;
+}
+
+.groups3MEH{
+	color: #C82CFF;
+	font-size: 40px;
+	margin-left: 400px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px #A0B7E0;
+}
+
+.Umehone{
+	margin-left: 500px;
+}
+
+/* ЭМЕН-180 */
+
+#UMEH-180 {
+	background: url(картинки/группы/ЭМЕН/ЭМЕН-180.jpg) no-repeat;
+	background-size: 30%;
+}
+
+/* НАЧАЛО ЭСЛ */
+
+#body10{
+	background: url(картинки/cyber10.jpg) no-repeat;
+	background-size: 100%;	/* растягивание фоновой картинки */
+}
+
+#group9{
+	margin-top: 300px;
+}
+
+.groups3CL{
+	color: #C82CFF;
+	font-size: 40px;
+	margin-left: 40px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px #A0B7E0;
+}
+
+.Uclone{
+	margin-left: 500px;
+}
+
+/* ЭСЛ-20 */
+
+#UCL-20 {
+	background: url(картинки/группы/ЭСЛ/ЭСЛ-20.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСЛ-180 */
+
+#UCL-180 {
+	background: url(картинки/группы/ЭСЛ/ЭСЛ-180.jpg) no-repeat;
+	background-size: 30%;
+}
+
+/* НАЧАЛО ЭСН */
+
+#body11{
+	background: url(картинки/cyber11.jpg) no-repeat;
+	background-size: 100%;	/* растягивание фоновой картинки */
+}
+
+#group10{
+	margin-top: 300px;
+}
+
+.groups3CH{
+	color: #C82CFF;
+	font-size: 40px;
+	margin-left: 40px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px #A0B7E0;
+}
+
+.Uchone{
+	margin-left: 140px;
+}
+
+/* ЭСН-21 */
+
+#UCH-21 {
+	background: url(картинки/группы/ЭСН/ЭСН-21.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСН-30 */
+
+#UCH-30 {
+	background: url(картинки/группы/ЭСН/ЭСН-30.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСН-180 */
+
+#UCH-180 {
+	background: url(картинки/группы/ЭСН/ЭСН-180.jpg) no-repeat;
+	background-size: 30%;
+}
+
+/* ЭСН-202 */
+
+#UCH-202 {
+	background: url(картинки/группы/ЭСН/ЭСН-202.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСН-302 */
+
+#UCH-302 {
+	background: url(картинки/группы/ЭСН/ЭСН-302.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* НАЧАЛО ЭЭС */
+
+#body12{
+	background: url(картинки/cyber12.jpg) no-repeat;
+	background-size: 100%;	/* растягивание фоновой картинки */
+}
+
+#group11{
+	margin-top: 100px;
+}
+
+.groups33C{
+	color: #C82CFF;
+	font-size: 40px;
+	margin-left: 40px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px #A0B7E0;
+}
+
+.U3Cone{
+	margin-left: 200px;
+}
+
+#separator1{
+	margin-left: 160px;
+	margin-top: 50px;
+}
+
+#separator2{
+	margin-left: 160px;
+	margin-top: 50px;
+}
+
+#separator3{
+	margin-top: 50px;
+}
+
+#separator4{
+	margin-top: 50px;
+}
+
+/* ЭСС-20 */
+
+#U3С-20 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-20.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-21 */
+
+#U3С-21 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-21.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-22 */
+
+#U3С-22 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-22.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-23 */
+
+#U3С-23 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-23.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-24 */
+
+#U3С-24 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-24.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-26 */
+
+#U3С-26 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-26.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-30 */
+
+#U3С-30 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-30.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-31 */
+
+#U3С-31 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-31.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-32 */
+
+#U3С-32 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-32.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-33 */
+
+#U3С-33 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-33.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-34 */
+
+#U3С-34 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-34.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-36 */
+
+#U3С-36 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-36.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-180 */
+
+#U3С-180 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-180.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-181 */
+
+#U3С-181 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-181.jpg) no-repeat;
+	background-size: 30%;
+}
+
+/* ЭСС-182 */
+
+#U3С-182 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-182.jpg) no-repeat;
+	background-size: 30%;
+}
+
+/* ЭСС-183 */
+
+#U3С-183 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-183.jpg) no-repeat;
+	background-size: 30%;
+}
+
+/* ЭСС-184 */
+
+#U3С-184 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-184.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-202 */
+
+#U3С-202 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-202.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-302 */
+
+#U3С-302 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-302.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-1800 */
+
+#U3С-1800 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-1800.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* ЭСС-1802 */
+
+#U3С-1802 {
+	background: url(картинки/группы/ЭЭС/ЭЭС-1802.jpg) no-repeat;
+	background-size: 40%;
+}
+
+/* НАЧАЛО БЕТЫ */
+
+.grop{
+	color: #C82CFF;
+	font-size: 40px;
+	padding: 15px;
+	font-family: OpenSans;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 5px 0px #A0B7E0;
+}
+
+.bets{
+	margin-left: 750px;
+	margin-top: 100px;
+}
+
+#betabody{
+	background: url(картинки/cyber13.jpg) no-repeat;
+	background-size: 100%;
+}
+
+#betaimg{
+	margin-left: 550px;
+}
+.bett{
+	margin-left: 750px;
+	margin-top: 20px;
+}
+
+#izmenit1{
+	background: #D8E042;
+}
+
+#izmenit2{
+	background: #E01619;
+}
+
+#oboznajenie1{
+	color:red;
+}
+
+#oboznajenie2{
+	color:#E0D42C;
+}
+
